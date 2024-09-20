@@ -1,8 +1,17 @@
+@import url(colors.css);
+
 body {
     font-family: 'Press Start 2P';
     text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 li {
     text-align: left;
+}
+
+section {
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
